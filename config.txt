@@ -1,13 +1,13 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wx06b0f466d5747f06",
+"app_id": "wx69db5347b302fd96",
 # 公众号appSecret
-"app_secret": "16b05e3fa1cf27c187ec25d41da73073",
+"app_secret": "00720e64f28402856c32de7e302a17fb",
 # 模板消息id
 "template_id": "OTKaFWj59ywHvLLVY366P86JDmGfEJaC8tT7IxZgCI8",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oHDkv5ut4i-wW3jLNXZDuVsMoe04","oHDkv5nxrWIZFDxbQF6r2-zYQuhQ"],
+"user": ["oQ1bp6AUNBMEDfTUnBVfotyH7-jo","oQ1bp6MIy2snBGGnv0vTlukA0L3g"],
  
 # 信息配置
 # 和风天气apikey
